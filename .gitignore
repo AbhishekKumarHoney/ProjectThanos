@@ -1,2 +1,7 @@
-/build/
-/target/
+.idea/
+/.classpath
+/.settings
+/.project
+/target
+/test-output
+/*.iml
